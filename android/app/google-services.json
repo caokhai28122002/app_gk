@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243937477237",
+    "project_id": "appgk-fceff",
+    "storage_bucket": "appgk-fceff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243937477237:android:2fcebf26846d964c116e3c",
+        "android_client_info": {
+          "package_name": "com.app_gk.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlvkF8iGY6c5m0d11MUA6ilKQYqNd7D28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
